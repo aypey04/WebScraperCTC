@@ -23,7 +23,7 @@ Your input file should be a `.csv` with at least one column named `Company`:
 Company
 Google
 Amazon
-TCS
+Uber
 ...
 ```
 
